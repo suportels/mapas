@@ -10,5 +10,11 @@
     "name" : "sw-p2-6.cdtn.br",
     "latitude" : -19.87222522122375,
     "longitude" : -43.9661754430
+  },
+  {
+    "key" : "c",
+    "name" : "sw-p20-1",
+    "latitude" : -19.8722252212,
+    "longitude" : -43.9661754430
   }
 ]
